@@ -1,7 +1,22 @@
-# Neste repositório irei upar os Lab's que montei durante o estudo do protocolo OSPF
+# OSPF's LABS
+Neste repositório irei upar os lab's que montei durante o estudo do protocolo de roteamento OSPF, todos os lab's estarão documentados e explicados com o máximo de detalhes.
+A Finalidade deste repositório para mim é para solidificar e aprender mais sobre redes e protocolos de roteamentos ao mesmo passo em que estarei lecionando e apresentando os cenários.
 
-Para este primeiro LAB, montei um cenário básico e apliquei uma configuração básica de OSPF, onde haverá 3 áreas sendo 1 delas uma área de transito/backbone.
-Irei explicar detalhadamente o funcionamento de cada topologia de forma mais detalhada que eu puder e irei disponibilizar todos os comandos utilizados assim como imagens para ilustrar a explicação.
+# OSPF Single-Area Configuration
+
+Nesta outra topologia fiz uma configuração básica de um OSPF em uma configuração de uma única área.
+
+Então é bem simples todos os roteadores compartilham seus LSA e atualizam suas tabelas de roteamentos.
+
+  <IMAGEM EXPLICANDO A TOPOLOGIA>
+
+esta é a tabela de roteamento do R1:
+
+    <TABELA DE ROTEAMENTO DO ROTEADOR 1>
+
+Estes foram os comandos utilizados nos switch's huawei para habilitar o OSPF Single-area.
+    
+    <COMANDOS>
 
 # OSPF - Multi-Area Configuration
 
@@ -28,20 +43,6 @@ e para a configuração deste cenário, a configuração foi feita por meio do E
 
 <COMANDOS>
 
-# OSPF Single-Area Configuration
-
-Nesta outra topologia fiz uma configuração básica de um OSPF em uma configuração de uma única área.
-
-Então é bem simples todos os roteadores compartilham seus LSA e atualizam suas tabelas de roteamentos.
-
-  <IMAGEM EXPLICANDO A TOPOLOGIA>
-
-esta é a tabela de roteamento do R1:
-    <TABELA DE ROTEAMENTO DO ROTEADOR 1>
-
-Estes foram os comandos utilizados nos switch's huawei para habilitar o OSPF Single-area.
-    
-    <COMANDOS>
 
 
 
