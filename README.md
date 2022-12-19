@@ -33,15 +33,15 @@ Os roteadores que compõem a Area 245 sabem que para chegar até a rede que est�
 
 Abaixo uma imagem descrevendo os tipos de anuncios e a descrição da função de cada Roteador:
 
-<IMAGEM EXPLICANDO A TOPOLOGIA>
+        <IMAGEM EXPLICANDO A TOPOLOGIA>
 
 A Tabela do roteamento do Roteador 1:
 
-<TABELA DE ROTEAMENTO DO ROTEADOR 1>
+        <TABELA DE ROTEAMENTO DO ROTEADOR 1>
 
 e para a configuração deste cenário, a configuração foi feita por meio do EVE-NG utilizando imagens do Huawei NE40, a configuração foi feita com os comandos a seguir:
 
-<COMANDOS>
+        <COMANDOS>
 
 
 
