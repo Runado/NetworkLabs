@@ -1,6 +1,7 @@
 # OSPF's LABS
 Neste repositório irei upar os lab's que montei durante o estudo do protocolo de roteamento OSPF, todos os lab's estarão documentados e explicados com o máximo de detalhes.
 A Finalidade deste repositório para mim é para solidificar e aprender mais sobre redes e protocolos de roteamentos ao mesmo passo em que estarei lecionando e apresentando os cenários.
+
 # Definição
 
 O Open Shortest Path First ou OSPF é um protocolo de roteamento do tipo LINK-STATE e utiliza o algoritmo SPF desenvolvido por Edsger Wybe Dijkstra para calcular as melhores rotas, OSPF é um IGP ou seja um Interior Gateway Protocol e deve ser utilizado apenas como Intra-AS.
